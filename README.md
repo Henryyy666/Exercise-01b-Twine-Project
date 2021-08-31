@@ -88,7 +88,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-01b-Twine-Project
-Exercise for MSCH-C220, 26 August 2021
+Exercise for Henryyy666, 26 August 2021
 
 An Interactive Fiction game loosely based on the great Interactive Fiction game, Zork. Load Zork.html in a browser to play it.
 
